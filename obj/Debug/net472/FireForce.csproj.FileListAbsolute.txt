@@ -1,0 +1,16 @@
+C:\Users\Jogos\source\repos\Arcade2\bin\Debug\net472\MonoTorrent.dll
+C:\Users\Jogos\source\repos\Arcade2\bin\Debug\net472\System.Core.dll
+C:\Users\Jogos\source\repos\Arcade2\bin\Debug\net472\System.IO.Compression.FileSystem.dll
+C:\Users\Jogos\source\repos\Arcade2\bin\Debug\net472\ReusableTasks.dll
+C:\Users\Jogos\source\repos\Arcade2\bin\Debug\net472\Mono.Nat.dll
+C:\Users\Jogos\source\repos\Arcade2\obj\Debug\net472\FireForce.csprojAssemblyReference.cache
+C:\Users\Jogos\source\repos\Arcade2\obj\Debug\net472\GFNAppLauncher.GFNAppLauncher.Form1.resources
+C:\Users\Jogos\source\repos\Arcade2\obj\Debug\net472\FireForce.csproj.GenerateResource.cache
+C:\Users\Jogos\source\repos\Arcade2\obj\Debug\net472\FireForce.csproj.CoreCompileInputs.cache
+C:\Users\Jogos\source\repos\Arcade2\obj\Debug\net472\FireForce.csproj.CopyComplete
+C:\Users\Jogos\source\repos\Arcade2\obj\Debug\net472\GFNAppLauncher.Properties.Resources.resources
+C:\Users\Jogos\source\repos\Arcade2\bin\Debug\net472\FireForce.exe.config
+C:\Users\Jogos\source\repos\Arcade2\bin\Debug\net472\FireForce.exe
+C:\Users\Jogos\source\repos\Arcade2\bin\Debug\net472\FireForce.pdb
+C:\Users\Jogos\source\repos\Arcade2\obj\Debug\net472\FireForce.exe
+C:\Users\Jogos\source\repos\Arcade2\obj\Debug\net472\FireForce.pdb
