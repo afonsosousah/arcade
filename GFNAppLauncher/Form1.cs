@@ -104,7 +104,7 @@ namespace GFNAppLauncher
 			AppDomain.CurrentDomain.AssemblyResolve += OnResolveAssembly;
 			InitializeComponent();
 			Region = System.Drawing.Region.FromHrgn(CreateRoundRectRgn(0, 0, Width, Height, 15, 15));
-			Directory.CreateDirectory("B:\\Arcade");
+			Directory.CreateDirectory("C:\\Arcade");
 			base.FormClosing += Form1_Closing;
 			base.MouseDown += Form1_MouseDown;
 		}

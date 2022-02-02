@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jogos\\source\\repos\\Arcade\\Arcade.csproj": {}
+    "C:\\Users\\Jogos\\Documents\\GitHub\\arcade\\Arcade.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jogos\\source\\repos\\Arcade\\Arcade.csproj": {
+    "C:\\Users\\Jogos\\Documents\\GitHub\\arcade\\Arcade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jogos\\source\\repos\\Arcade\\Arcade.csproj",
+        "projectUniqueName": "C:\\Users\\Jogos\\Documents\\GitHub\\arcade\\Arcade.csproj",
         "projectName": "Arcade",
-        "projectPath": "C:\\Users\\Jogos\\source\\repos\\Arcade\\Arcade.csproj",
+        "projectPath": "C:\\Users\\Jogos\\Documents\\GitHub\\arcade\\Arcade.csproj",
         "packagesPath": "C:\\Users\\Jogos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jogos\\source\\repos\\Arcade\\obj\\",
+        "outputPath": "C:\\Users\\Jogos\\Documents\\GitHub\\arcade\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -48,7 +48,7 @@
               "version": "[2.0.1.2, )"
             }
           },
-          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U7BmFhoyrHjsCia5tnbUM3OAAFBjw4qM3KfWlbMuOStkFEAaRfn+lK/JRDbY21sE8o08wY2OMbCVvnDsk09MTA==",
+  "dgSpecHash": "uDfawRQ7COAIp5lDzbzZTVMcyA+/WP1Dfv4fYHGFWy1FtNw9hzz+TdECwHiLpqDqCkaWL+9cxiqsW5RGq97bTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jogos\\source\\repos\\Arcade\\Arcade.csproj",
+  "projectFilePath": "C:\\Users\\Jogos\\Documents\\GitHub\\arcade\\Arcade.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jogos\\.nuget\\packages\\guna.ui2.winforms\\2.0.1.2\\guna.ui2.winforms.2.0.1.2.nupkg.sha512"
   ],
